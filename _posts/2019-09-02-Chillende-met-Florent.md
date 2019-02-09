@@ -5,7 +5,7 @@ author: "Gaius"
 ---
 
 # Rendez-vous met Florent
-Florent = trollface:  
+Florent = :trollface:  
 Thalla bois.
 ![Gedag zeggen](/images/handje.png)
 
