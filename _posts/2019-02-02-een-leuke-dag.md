@@ -4,7 +4,7 @@ title:  "Een leuke dag"
 author: "Gaius"
 ---
 
-##Dagdeel ochtend
+## Dagdeel ochtend
 Hallo daar, kameraad. Gekoloniseerd.
 
 ACe ging uit fietsen, toen klapte zijn band.
