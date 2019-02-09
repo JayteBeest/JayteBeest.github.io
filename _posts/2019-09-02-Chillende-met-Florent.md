@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Een leuke dag"
+title:  "Florentfestijn"
 author: "Gaius"
 ---
 
