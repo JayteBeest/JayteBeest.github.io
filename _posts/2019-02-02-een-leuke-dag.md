@@ -5,7 +5,8 @@ author: "Gaius"
 ---
 
 ## Dagdeel ochtend
-Hallo daar, kameraad. Gekoloniseerd.
+Hallo daar, kameraad. Gekoloniseerd.  
+![Gedag zeggen](/images/handje.png)
 
 ACe ging uit fietsen, toen klapte zijn band.
 Toen ging ACe maar lopen, met de fiets aan de hand.  
